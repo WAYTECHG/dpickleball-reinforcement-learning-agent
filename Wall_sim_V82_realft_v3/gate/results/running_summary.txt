@@ -1,0 +1,2 @@
+RIGHT-SIDE (v2 model_right = 1600k mirror) vs router
+wins=3/3  avg ours:router=21.0:13.3  games(ours:router)=[21:14 21:11 21:15]

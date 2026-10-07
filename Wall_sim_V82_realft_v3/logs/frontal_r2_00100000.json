@@ -1,0 +1,69 @@
+{
+  "baseline": {
+    "6": {
+      "model": "D:\\pickleball\\Wall_sim_V81_distill\\checkpoints\\student_policy.pt",
+      "side": "left",
+      "level": 6,
+      "episodes": 30,
+      "success_rate": 0.8,
+      "avg_returns": 13.066666666666666,
+      "avg_contacts": 13.533333333333333,
+      "avg_length": 420.2,
+      "rotate_rate": 0.0,
+      "action_counts": [
+        [
+          10328,
+          1040,
+          1238
+        ],
+        [
+          60,
+          7785,
+          4761
+        ],
+        [
+          12606,
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  "candidate": {
+    "6": {
+      "model": "D:\\pickleball\\Wall_sim_V82_realft\\checkpoints\\realft_00100000_policy.pt",
+      "side": "left",
+      "level": 6,
+      "episodes": 30,
+      "success_rate": 0.8,
+      "avg_returns": 13.1,
+      "avg_contacts": 13.566666666666666,
+      "avg_length": 420.2,
+      "rotate_rate": 0.0,
+      "action_counts": [
+        [
+          10351,
+          1063,
+          1192
+        ],
+        [
+          59,
+          7817,
+          4730
+        ],
+        [
+          12606,
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  "delta": {
+    "6": {
+      "success_rate": 0.0,
+      "avg_returns": 0.033333333333333215,
+      "avg_contacts": 0.033333333333333215
+    }
+  }
+}

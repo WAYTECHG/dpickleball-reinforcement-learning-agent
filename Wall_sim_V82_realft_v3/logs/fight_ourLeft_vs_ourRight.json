@@ -1,0 +1,50 @@
+{
+  "our_side": "left",
+  "steps": 13895,
+  "target_score": 21.0,
+  "ours_score": 15.0,
+  "v67_score": 21.0,
+  "score_diff": -6.0,
+  "left_policy_ms_mean": 0.7062320186832458,
+  "left_policy_ms_max": 30.08469998894725,
+  "right_policy_ms_mean": 0.599017473996584,
+  "right_policy_ms_max": 4.455699992831796,
+  "left_action_counts": [
+    [
+      8832,
+      2436,
+      2627
+    ],
+    [
+      152,
+      10842,
+      2901
+    ],
+    [
+      13895,
+      0,
+      0
+    ]
+  ],
+  "right_action_counts": [
+    [
+      9312,
+      2076,
+      2507
+    ],
+    [
+      224,
+      3238,
+      10433
+    ],
+    [
+      13895,
+      0,
+      0
+    ]
+  ],
+  "left_rotate_rate": 0.0,
+  "right_rotate_rate": 0.0,
+  "force_no_rotation": false,
+  "communicator_stopped": false
+}

@@ -1,0 +1,29 @@
+﻿[ckpt] steps=25000 saved realft_00025000; points since last ckpt L:R=31:29 (point_winrate=0.517) relaunches=1
+[ckpt] steps=50000 saved realft_00050000; points since last ckpt L:R=35:30 (point_winrate=0.538) relaunches=1
+[ckpt] steps=75000 saved realft_00075000; points since last ckpt L:R=39:27 (point_winrate=0.591) relaunches=1
+[ckpt] steps=100000 saved realft_00100000; points since last ckpt L:R=38:23 (point_winrate=0.623) relaunches=1
+[ckpt] steps=125000 saved realft_00125000; points since last ckpt L:R=38:24 (point_winrate=0.613) relaunches=1
+[ckpt] steps=150000 saved realft_00150000; points since last ckpt L:R=39:29 (point_winrate=0.574) relaunches=1
+[ckpt] steps=175000 saved realft_00175000; points since last ckpt L:R=32:30 (point_winrate=0.516) relaunches=1
+[ckpt] steps=200000 saved realft_00200000; points since last ckpt L:R=35:29 (point_winrate=0.547) relaunches=1
+[ckpt] steps=225000 saved realft_00225000; points since last ckpt L:R=25:35 (point_winrate=0.417) relaunches=1
+[ckpt] steps=250000 saved realft_00250000; points since last ckpt L:R=40:31 (point_winrate=0.563) relaunches=1
+[ckpt] steps=275000 saved realft_00275000; points since last ckpt L:R=33:30 (point_winrate=0.524) relaunches=1
+[ckpt] steps=300000 saved realft_00300000; points since last ckpt L:R=40:23 (point_winrate=0.635) relaunches=1
+[ckpt] steps=1500 saved realft_00001500; window W:L=2:4 (winrate=0.333) left|snapshot=1:0(1.00) right|router=1:2(0.33) right|snapshot=0:2(0.00) relaunches=1
+[ckpt] steps=3000 saved realft_00003000; window W:L=3:5 (winrate=0.375) left|snapshot=2:0(1.00) right|router=0:3(0.00) right|snapshot=1:2(0.33) relaunches=1
+[ckpt] steps=50000 saved realft_00050000; window W:L=66:120 (winrate=0.355) left|router=22:26(0.46) left|snapshot=30:4(0.88) right|router=8:42(0.16) right|snapshot=6:48(0.11) relaunches=1
+[ckpt] steps=100000 saved realft_00100000; window W:L=78:111 (winrate=0.413) left|router=21:16(0.57) left|snapshot=38:3(0.93) right|router=8:38(0.17) right|snapshot=11:54(0.17) relaunches=1
+[ckpt] steps=150000 saved realft_00150000; window W:L=73:108 (winrate=0.403) left|router=22:26(0.46) left|snapshot=36:8(0.82) right|router=10:32(0.24) right|snapshot=5:42(0.11) relaunches=1
+[ckpt] steps=200000 saved realft_00200000; window W:L=80:103 (winrate=0.437) left|router=25:22(0.53) left|snapshot=30:10(0.75) right|router=14:28(0.33) right|snapshot=11:43(0.20) relaunches=1
+[ckpt] steps=250000 saved realft_00250000; window W:L=74:90 (winrate=0.451) left|router=23:25(0.48) left|snapshot=29:12(0.71) right|router=14:18(0.44) right|snapshot=8:35(0.19) relaunches=1
+[ckpt] steps=300000 saved realft_00300000; window W:L=93:80 (winrate=0.538) left|router=30:21(0.59) left|snapshot=44:13(0.77) right|router=10:16(0.38) right|snapshot=9:30(0.23) relaunches=1
+[ckpt] steps=350000 saved realft_00350000; window W:L=78:86 (winrate=0.476) left|router=22:19(0.54) left|snapshot=34:9(0.79) right|router=13:30(0.30) right|snapshot=9:28(0.24) relaunches=1
+[ckpt] steps=400000 saved realft_00400000; window W:L=74:113 (winrate=0.396) left|router=22:22(0.50) left|snapshot=43:7(0.86) right|router=6:37(0.14) right|snapshot=3:47(0.06) relaunches=1
+[ckpt] steps=450000 saved realft_00450000; window W:L=83:90 (winrate=0.480) left|router=31:23(0.57) left|snapshot=37:5(0.88) right|router=7:28(0.20) right|snapshot=8:34(0.19) relaunches=1
+[ckpt] steps=500000 saved realft_00500000; window W:L=80:92 (winrate=0.465) left|router=30:17(0.64) left|snapshot=33:10(0.77) right|router=9:33(0.21) right|snapshot=8:32(0.20) relaunches=1
+[ckpt] steps=550000 saved realft_00550000; window W:L=83:82 (winrate=0.503) left|router=21:17(0.55) left|snapshot=34:11(0.76) right|router=16:28(0.36) right|snapshot=12:26(0.32) relaunches=1
+[ckpt] steps=600000 saved realft_00600000; window W:L=83:92 (winrate=0.474) left|router=23:21(0.52) left|snapshot=38:6(0.86) right|router=14:31(0.31) right|snapshot=8:34(0.19) relaunches=1
+[ckpt] steps=650000 saved realft_00650000; window W:L=69:92 (winrate=0.429) left|router=16:21(0.43) left|snapshot=28:2(0.93) right|router=14:40(0.26) right|snapshot=11:29(0.28) relaunches=1
+[ckpt] steps=1000 saved realft_00001000; window W:L=1:2 (winrate=0.333) left|router=0:1(0.00) left|v54_leader=1:0(1.00) left|v84_leader=0:1(0.00) relaunches=1
+[ckpt] steps=2000 saved realft_00002000; window W:L=3:1 (winrate=0.750) left|c29_nethug=2:0(1.00) left|realft_self=1:1(0.50) relaunches=1

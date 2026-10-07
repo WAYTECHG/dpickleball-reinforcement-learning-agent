@@ -1,0 +1,68 @@
+[
+  {
+    "candidate": "D:\\pickleball\\Smash_Potato_HR_v1_LOCKED\\model_left.pt",
+    "tag": "model_left",
+    "rc": 0,
+    "player_score": 21.0,
+    "opponent_score": 15.0,
+    "won": true,
+    "rotate_rate": 0.0,
+    "dominant_rotate": 0.0,
+    "steps": 13529
+  },
+  {
+    "candidate": "D:\\pickleball\\Wall_sim_V82_realft\\checkpoints\\realft_00700004_policy.pt",
+    "tag": "realft_00700004_policy",
+    "rc": 0,
+    "player_score": 21.0,
+    "opponent_score": 17.0,
+    "won": true,
+    "rotate_rate": 0.0,
+    "dominant_rotate": 0.0,
+    "steps": 16085
+  },
+  {
+    "candidate": "D:\\pickleball\\Wall_sim_V82_realft\\checkpoints\\realft_00900004_policy.pt",
+    "tag": "realft_00900004_policy",
+    "rc": 0,
+    "player_score": 21.0,
+    "opponent_score": 9.0,
+    "won": true,
+    "rotate_rate": 0.0,
+    "dominant_rotate": 0.0,
+    "steps": 11534
+  },
+  {
+    "candidate": "D:\\pickleball\\Wall_sim_V82_realft\\checkpoints\\realft_01100004_policy.pt",
+    "tag": "realft_01100004_policy",
+    "rc": 0,
+    "player_score": 21.0,
+    "opponent_score": 19.0,
+    "won": true,
+    "rotate_rate": 0.0,
+    "dominant_rotate": 0.0,
+    "steps": 16040
+  },
+  {
+    "candidate": "D:\\pickleball\\Wall_sim_V82_realft\\checkpoints\\realft_01350004_policy.pt",
+    "tag": "realft_01350004_policy",
+    "rc": 0,
+    "player_score": 21.0,
+    "opponent_score": 17.0,
+    "won": true,
+    "rotate_rate": 0.0,
+    "dominant_rotate": 0.0,
+    "steps": 16065
+  },
+  {
+    "candidate": "D:\\pickleball\\Wall_sim_V82_realft\\checkpoints\\realft_01600004_policy.pt",
+    "tag": "realft_01600004_policy",
+    "rc": 0,
+    "player_score": 21.0,
+    "opponent_score": 8.0,
+    "won": true,
+    "rotate_rate": 0.0,
+    "dominant_rotate": 0.0,
+    "steps": 12272
+  }
+]
