@@ -213,7 +213,7 @@ python competition_like_fight.py --env-path "C:\path\to\Competition\Windows\dp.e
 
 **Note:** This command launches the competition simulation using existing trained policies. It does not initiate a new training session. A compatible environment build, dependencies, and agent checkpoints are required.
 
-## References and Acknowledgements
+## Acknowledgements
 
 Developed collaboratively for **AIT306 — Deep Reinforcement Learning** at Xiamen University Malaysia.
 
