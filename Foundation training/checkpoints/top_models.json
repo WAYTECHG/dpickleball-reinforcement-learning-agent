@@ -1,0 +1,151 @@
+[
+  {
+    "id": "candidate_1783499798119",
+    "score": 5250.433210718858,
+    "metadata": {
+      "total_timesteps": 60000,
+      "current_level": 2,
+      "rank_level": 2,
+      "score": 5250.433210718858,
+      "eval_result": {
+        "1": {
+          "success_rate": 0.92,
+          "avg_returns": 41.9,
+          "avg_reward": 231.0849185621211,
+          "fail_rate": 0.08,
+          "front_camp_rate": 0.895,
+          "action_to_net_rate": 0.8620444444444444,
+          "avg_paddle_x": 87.75785256591956,
+          "avg_contacts": 42.22,
+          "avg_strong_bounces": 42.22,
+          "avg_recovery_rewards": 0.84,
+          "avg_home_distance": 39.94605194354122,
+          "avg_opponent_avoid_count": 1.6,
+          "avg_opponent_avoid_attempts": 41.9,
+          "avg_opponent_avoid_rate": 0.0344918396055239,
+          "avg_opponent_y": 49.77201456170665,
+          "avg_paddle_speed_reward": 0.0,
+          "avg_slow_paddle_hits": 0.0,
+          "avg_fast_paddle_hits": 0.0,
+          "net_stick_rate": 0.0,
+          "left_success_rate": 1.0,
+          "right_success_rate": 0.8260869565217391,
+          "left_trials": 27,
+          "right_trials": 23,
+          "n_trials": 50
+        },
+        "2": {
+          "success_rate": 0.82,
+          "avg_returns": 63.08,
+          "avg_reward": 332.39056530265475,
+          "fail_rate": 0.36,
+          "front_camp_rate": 0.7885468703646697,
+          "action_to_net_rate": 0.6688804785577005,
+          "avg_paddle_x": 84.5039345560901,
+          "avg_contacts": 63.7,
+          "avg_strong_bounces": 63.7,
+          "avg_recovery_rewards": 0.7,
+          "avg_home_distance": 36.503843263389214,
+          "avg_opponent_avoid_count": 2.1,
+          "avg_opponent_avoid_attempts": 63.08,
+          "avg_opponent_avoid_rate": 0.029424264157234977,
+          "avg_opponent_y": 48.46913666697596,
+          "avg_paddle_speed_reward": 0.0,
+          "avg_slow_paddle_hits": 0.0,
+          "avg_fast_paddle_hits": 0.0,
+          "net_stick_rate": 0.0,
+          "left_success_rate": 0.8518518518518519,
+          "right_success_rate": 0.782608695652174,
+          "left_trials": 27,
+          "right_trials": 23,
+          "n_trials": 50
+        }
+      }
+    },
+    "rank": 1,
+    "path": "D:\\xmum work\\202604\\Reinforcement learning\\Final Pickleball\\Foundation training\\checkpoints\\best_1.zip",
+    "policy_pt_path": "D:\\xmum work\\202604\\Reinforcement learning\\Final Pickleball\\Foundation training\\checkpoints\\best_1_policy.pt"
+  },
+  {
+    "id": "candidate_1783499386216",
+    "score": 3394.5432697720403,
+    "metadata": {
+      "total_timesteps": 40000,
+      "current_level": 1,
+      "rank_level": 1,
+      "score": 3394.5432697720403,
+      "eval_result": {
+        "1": {
+          "success_rate": 0.8,
+          "avg_returns": 38.74,
+          "avg_reward": 195.9243656094007,
+          "fail_rate": 0.2,
+          "front_camp_rate": 0.7995777777777778,
+          "action_to_net_rate": 0.772257395143488,
+          "avg_paddle_x": 81.54217134232675,
+          "avg_contacts": 39.28,
+          "avg_strong_bounces": 39.26,
+          "avg_recovery_rewards": 0.7,
+          "avg_home_distance": 37.128741704749984,
+          "avg_opponent_avoid_count": 2.22,
+          "avg_opponent_avoid_attempts": 38.74,
+          "avg_opponent_avoid_rate": 0.0435104242772415,
+          "avg_opponent_y": 50.465101269314935,
+          "avg_paddle_speed_reward": 0.0,
+          "avg_slow_paddle_hits": 0.0,
+          "avg_fast_paddle_hits": 0.0,
+          "net_stick_rate": 0.0,
+          "left_success_rate": 0.7037037037037037,
+          "right_success_rate": 0.9130434782608695,
+          "left_trials": 27,
+          "right_trials": 23,
+          "n_trials": 50
+        }
+      }
+    },
+    "rank": 2,
+    "path": "D:\\xmum work\\202604\\Reinforcement learning\\Final Pickleball\\Foundation training\\checkpoints\\best_2.zip",
+    "policy_pt_path": "D:\\xmum work\\202604\\Reinforcement learning\\Final Pickleball\\Foundation training\\checkpoints\\best_2_policy.pt"
+  },
+  {
+    "id": "candidate_1783499166138",
+    "score": 53.039457853757455,
+    "metadata": {
+      "total_timesteps": 20000,
+      "current_level": 1,
+      "rank_level": 1,
+      "score": 53.039457853757455,
+      "eval_result": {
+        "1": {
+          "success_rate": 0.4,
+          "avg_returns": 2.54,
+          "avg_reward": 8.992717773492853,
+          "fail_rate": 1.0,
+          "front_camp_rate": 0.7030196689293398,
+          "action_to_net_rate": 0.5577811215295686,
+          "avg_paddle_x": 87.02536480260046,
+          "avg_contacts": 3.24,
+          "avg_strong_bounces": 2.6,
+          "avg_recovery_rewards": 0.58,
+          "avg_home_distance": 29.70532839295957,
+          "avg_opponent_avoid_count": 0.08,
+          "avg_opponent_avoid_attempts": 2.54,
+          "avg_opponent_avoid_rate": 0.012214285714285716,
+          "avg_opponent_y": 49.107090348434774,
+          "avg_paddle_speed_reward": 0.0,
+          "avg_slow_paddle_hits": 0.0,
+          "avg_fast_paddle_hits": 0.0,
+          "net_stick_rate": 0.0,
+          "left_success_rate": 0.48148148148148145,
+          "right_success_rate": 0.30434782608695654,
+          "left_trials": 27,
+          "right_trials": 23,
+          "n_trials": 50
+        }
+      }
+    },
+    "rank": 3,
+    "path": "D:\\xmum work\\202604\\Reinforcement learning\\Final Pickleball\\Foundation training\\checkpoints\\best_3.zip",
+    "policy_pt_path": "D:\\xmum work\\202604\\Reinforcement learning\\Final Pickleball\\Foundation training\\checkpoints\\best_3_policy.pt"
+  }
+]

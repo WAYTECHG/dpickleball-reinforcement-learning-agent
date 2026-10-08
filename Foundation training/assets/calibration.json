@@ -1,0 +1,25 @@
+{
+  "source": "unity_samples.zip",
+  "observation_shape": [
+    84,
+    168,
+    3
+  ],
+  "ml_agents_visual_shape": [
+    3,
+    84,
+    168
+  ],
+  "agents": {
+    "agent_0": "PAgent1?team=0?agent_id=0 visual+vector",
+    "agent_1": "PAgent2?team=0?agent_id=2 vector only"
+  },
+  "detected_ball_speed_px_per_frame_percentiles": {
+    "p50": 0.0,
+    "p75": 0.4948,
+    "p90": 0.9098,
+    "p95": 1.1436,
+    "p99": 1.807
+  },
+  "sim_note": "Python simulator uses feature-compatible object-centric state; visual rendering approximates the Unity observation."
+}

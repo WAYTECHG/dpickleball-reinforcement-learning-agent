@@ -1,0 +1,14 @@
+{
+  "current_level": 3,
+  "total_timesteps": 80000,
+  "level_success_rates": {
+    "1": 0.92,
+    "2": 0.82
+  },
+  "level_train_timesteps": {
+    "1": 40000,
+    "2": 20000,
+    "3": 20000
+  },
+  "best_score": null
+}

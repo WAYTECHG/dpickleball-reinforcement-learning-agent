@@ -1,0 +1,48 @@
+
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parent
+
+
+IMG_H = 84
+IMG_W = 168
+
+
+COURT_X1 = 18
+COURT_X2 = 158
+COURT_Y1 = 27
+COURT_Y2 = 72
+CENTER_X = 84
+
+
+CANONICAL_SIDE = "right"
+
+
+NUM_ENVS = 8
+SEED = 42
+DEVICE = "auto"
+
+
+TRAIN_INTERVAL = 20_000
+MAX_TOTAL_STEPS = 2_000_000
+
+
+PASS_SUCCESS_RATE = 0.80
+TRIAL_RETURN_TARGET = 3
+EVAL_TRIALS = 50
+MAX_LEVEL = 6
+
+LEVEL3_MAX_TRAIN_STEPS = 500_000
+
+
+CHECKPOINT_DIR = ROOT_DIR / "checkpoints"
+LOG_DIR = ROOT_DIR / "logs"
+CURRICULUM_STATE_PATH = CHECKPOINT_DIR / "curriculum_state.json"
+TOP_K_MODELS = 3
+
+
+OBS_SOURCE = "state"
+
+
+MAX_EPISODE_STEPS = 900
+OWN_SIDE_TIMEOUT_STEPS = 240
