@@ -1,0 +1,32 @@
+{
+  "league_pool_filtered_count": 40,
+  "league_pool_all_submitted_count": 211,
+  "league_pool_filtered_group_counts": {
+    "ww_legacy": 11,
+    "haoren": 5,
+    "huayang": 6,
+    "jason": 6,
+    "wilbert": 6,
+    "zhiling": 6
+  },
+  "league_pool_all_submitted_group_counts": {
+    "ww_legacy": 58,
+    "haoren": 65,
+    "huayang": 21,
+    "jason": 22,
+    "wilbert": 24,
+    "zhiling": 21
+  },
+  "added_to_filtered_pool": [
+    "zhiling_800k_800k_chunk_00010.pt",
+    "zhiling_ft200k_finetune_200k_chunk_00002.pt",
+    "huayang_800k_800k_chunk_00010.pt",
+    "huayang_ft200k_finetune_200k_chunk_00002.pt",
+    "jason_800k_800k_chunk_00010.pt",
+    "jason_ft200k_finetune_200k_chunk_00002.pt",
+    "wilbert_800k_800k_chunk_00010.pt",
+    "wilbert_ft200k_finetune_200k_chunk_00002.pt"
+  ],
+  "default_training_pool": "league_pool_filtered",
+  "archive_pool": "league_pool_all_submitted"
+}

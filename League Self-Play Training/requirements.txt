@@ -1,0 +1,7 @@
+torch
+numpy
+opencv-python
+stable-baselines3
+mlagents-envs
+gym
+gymnasium

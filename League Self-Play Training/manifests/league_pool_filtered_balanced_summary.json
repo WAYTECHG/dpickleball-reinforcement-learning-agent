@@ -1,0 +1,12 @@
+{
+  "league_pool_filtered_count": 32,
+  "league_pool_filtered_design": "balanced weak/medium/strong runtime pool",
+  "category_counts": {
+    "weak_old": 9,
+    "haoren_progression": 10,
+    "wilbert_blocker": 2,
+    "strong_legacy": 11
+  },
+  "all_submitted_pool_count": 125,
+  "notes": "Default training uses league_pool_filtered. Full archive remains in league_pool_all_submitted for report/submission evidence."
+}
