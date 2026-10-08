@@ -1,1 +1,0 @@
-2026-06-15 04:44:19 pid=18384 training step=1600004 attempt=1 worker=64

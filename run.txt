@@ -1,1 +1,0 @@
-python competition_like_fight.py --env-path "C:\Users\User\Documents\Year 3 (Sem 3)\Deep Reinforcement Learning and Control\pickleball\dpickleball-ml-agents\dPickleball BuildFiless\dPickleball BuildFiles\Competition\Windows\dp.exe" --graphics
